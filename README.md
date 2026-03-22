@@ -1,7 +1,3 @@
-Ecco il testo completo in formato Markdown, pronto per il copia e incolla. Ho sistemato la formattazione, i blocchi di codice e i placeholder numerici per renderlo un documento professionale e funzionale.
-
------
-
 # 🐍 SabryShell
 
 **Web Shell PHP avanzata con interfaccia terminale interattiva**
