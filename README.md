@@ -229,9 +229,9 @@ Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
 
 -----
 
-## 👤 Autore
+## 👤 Autore: Alessandro D'Auria
 
-**SabryShell** - Sviluppato con ❤️ per amministratori di sistema.
+**SabryShell** - Dedicato a mia moglie  ❤️
 
 -----
 
@@ -240,29 +240,6 @@ Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
   * Ispirato ai terminali green-screen degli anni '80.
   * Icona Medusa ispirata alla mitologia greca.
   * Community PHP per il supporto continuo.
-
------
-
-## 📞 Supporto
-
-Per problemi, bug report o suggerimenti:
-
-  * 🐛 Apri una **Issue** su GitHub.
-  * 📧 Invia una email a: `supporto@esempio.com`.
-
------
-
-## 🔄 Changelog
-
-### v1.0.0 (2026)
-
-  * ✅ Release iniziale.
-  * ✅ Autenticazione con sessione PHP sicura.
-  * ✅ Terminale interattivo green-screen.
-  * ✅ Editor file integrato (vi/nano emulation).
-  * ✅ Autocomplete intelligente con tasto Tab.
-  * ✅ Storico comandi con navigazione frecce.
-
 -----
 
 ## ⚠️ DISCLAIMER LEGALE
