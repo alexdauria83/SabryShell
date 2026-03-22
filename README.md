@@ -246,11 +246,4 @@ Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori informazioni.
 
 Questo software è fornito "AS IS" senza garanzie di alcun tipo. L'utente si assume piena e totale responsabilità per l'utilizzo di questo strumento. Gli sviluppatori non sono responsabili per eventuali danni, perdite di dati o violazioni della sicurezza. L'uso non autorizzato su sistemi di terzi è illegale.
 
-\<p align="center"\>
-\<strong\>Made with 🐍 and ☕\</strong\><br>
-\<sub\>© 2026 SabryShell Project\</sub\>
-\</p\>
-
------
-
-Desideri che io generi anche il codice PHP di base per implementare queste funzionalità o preferisci procedere con questo testo per il tuo file README?
+ 
